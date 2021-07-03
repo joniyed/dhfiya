@@ -232,7 +232,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 .intro h1 {
     font-family: 'Raleway', sans-serif;
-    color: #00ffdb;
+    color: #150101;
     font-size: 40px;
     font-weight: 700;
     text-transform: uppercase;
@@ -246,7 +246,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 
 .intro p {
-    color: #00faef;
+    color: #150101;
     font-size: 22px;
     font-weight: 300;
     line-height: 30px;
