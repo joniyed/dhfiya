@@ -5,9 +5,9 @@ function Gallery(props) {
         <div id="portfolio" className="text-center">
             <div className="container">
                 <div className="section-title">
-                    <h2>Gallery</h2>
+                    <h2>গ্যালারী</h2>
                     <p>
-                        Some picture of our work
+                        আমাদের কিছু ছবি
                     </p>
                 </div>
                 <div className="row">
@@ -27,7 +27,7 @@ function Gallery(props) {
                                                     <h4>Lorem Ipsum</h4>
                                                 </div>
                                                 <img
-                                                    style={{height:"250px", margin:"5px"}}
+                                                    style={{height: "250px", width: "100%", margin: "5px"}}
                                                     src={d.img}
                                                     className="img-responsive"
                                                     alt="Project Title"

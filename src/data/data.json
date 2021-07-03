@@ -4,133 +4,182 @@
     "paragraph": "ইসলাম পৃথিবীর সবচেয়ে আধুনিক এবং প্রগতিশীল এক জীবন ব্যবস্থার নাম। ইসলামের সুশীতল ছায়াতলে যারাই আশ্রয় নিয়েছেন তারাই পেয়েছেন শান্তি, নিরাপত্তা, অগ্রগতির প্রকৃত ঠিকানা। সময় এবং কালের প্রবাহে ইসলামের অনুসারীদের মধ্যে বিভাজন, ভ্রান্তির বিকাশ এবং সাময়িক অসুবিধার সৃষ্টি করেছে। আজ মুসলিমরা প্রকৃত পথ নির্দেশনা হতে বঞ্চিত। শান্তি, স্থিতিশীলতার অগ্রগতিতে মুসলমানদের তুল্য কোন শক্তি নেই। এরপরও আজ সমাজে, দেশে-বিদেশে কেন এত অরাজকতা? তার অন্যতম কারণ আমরা আজ সত্যিকার ধর্মীয় অনুশাসন ও জ্ঞান থেকে বিচ্যুত। সময়ের প্রেক্ষাপটে আমরা এটা তীব্রভাবে অনুধাবন করছি যে,সমাজ ও দেশের অগ্রগতির সার্থেই বর্তমান মুসলিম তরুন প্রজন্মকে এগিয়ে আসতে হবে। কারণ তারন্যের আছে অজেয়কে জয় করার অদম্য সাহস। তরুনরা অপেক্ষাকৃত নির্লোভ ও সৎ হয়। এজন্য আজ তাদের জেগে উঠতে হবে। জ্বলে উঠতে হবে এক বুক ভরা সাহস নিয়ে। তাই আজ সামাজিক ধর্মীয় প্রেক্ষাপটের ভিত্তিতে সুস্থ ও আদর্শিক ধারা সৃষ্টির লক্ষ্যে ঐক্যের কোন বিকল্প নেই। \n\nসেই প্রয়োজনের তাগিদেই ধরখার আহলে সুন্নত ওয়াল জামায়াতের অনুসারীদের নিয়ে ঐক্যবদ্ধ প্লাটফর্ম হিসেবে  ধরখার হিলফুল ফুজুল ইসলামী যুব সংঘের যাত্রা শুরু হচ্ছে। যার প্রকৃত লক্ষ্য হচ্ছে সমাজে প্রচলিত শিরক ও কুফরের বিরুদ্ধে লড়াই করা। মুসলিম তরুন সমাজকে সঠিক দিনের পথে দাওয়াত দেয়া। "
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "ধরখার হিলফুল ফুজুল সংগঠন হল যুবকদের তৈরী একটি ইসলামিক দল। যার মূল উদ্দেশ্য হল সমাজ থেকে শিরক এবং কুফর দূর করা। সমাজের মধ্যে সঠিক ইসলাম এর চর্চা তুলে ধরা। ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "আল্লাহর সন্তুষ্টি অর্জন",
+      "রাসূলের আদর্শে জীবন গড়া",
+      "সঠিক আকিদার অনুশীলন",
+      "দেশ, স্বাধীনতা, মানবতার রক্ষা"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "যুব সমাজে ইসলাম প্রচার",
+      "সামাজিক শান্তি, শৃঙ্খলা রক্ষা",
+      "ইসলামিক সংস্কৃতি চর্চা",
+      "শিশু-কিশোর বিকাশ কেন্দ্র"
     ]
   },
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-book",
+      "name": "ধর্মীয় অনুষ্ঠান ও কার্যক্রম পরিচালনা",
+      "text": "কোরআন ও সুন্নাহ চর্চায় বিভিন্ন ধর্মীয় অনুষ্ঠান ও কার্যক্রম পরিচালনা করা।"
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "তাফসির মাহফিলের আয়োজন",
+      "text": " বছরে অন্তত একবার কোরআন তাফসির মাহফিলের আয়োজন করা।"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "জাতীয়, ধর্মীয় দিবস গুলি পালন",
+      "text": "জাতীয়, আন্তর্জাতিক ও ধর্মীয় দিবস গুলি যথাযোগ্য মর্যাদার সাথে পালন করা।"
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "শিশু-কিশোর বিকাশ কেন্দ্র প্রতিষ্ঠা",
+      "text": "ভবিষ্যৎ  প্রজন্মকে ইসলামিক মুল্যবোধের সঠিক আকিদার উপর গড়ে তোলার জন্য একটি **শিশু-কিশোর** বিকাশ কেন্দ্র প্রতিষ্ঠা করা। যাতে সপ্তাহে অন্তত একদিন শিশু কিশোরদের ধর্মীয় মূল্যবোধ ও নৈতিকতা শিক্ষা দেয়া যায়।"
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "মানবসেবা, বৃক্ষরোপন, সহায়তা দান",
+      "text": "মানবসেবা, বৃক্ষরোপন, শীতার্থ, প্রাকৃতিক দূর্যোগাপন্য মানুষের সহায়তা দান, এছাড়া প্রতি রমজানে ইফতার সমাগ্রী বিতরন ইত্যাদি কার্যক্রম গ্রহন করা।"
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "শিক্ষা সফর ও ঐতিহাসিক স্থান ভ্রমন",
+      "text": "বিভিন্ন ছুটিতে বছরে অন্তত একবার সংগঠনের সদস্যদের নিয়ে দিন-ব্যাপি শিক্ষা সফর ও ঐতিহাসিক স্থান ভ্রমন করা।"
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "circle-logo.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "circle-logo.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/04.jpg",
+      "img": "circle-logo.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     },
     {
-      "img": "img/testimonials/05.jpg",
+      "img": "circle-logo.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/06.jpg",
+      "img": "circle-logo.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     }
   ],
   "Team": [
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/maynuddin.jpg",
       "name": "মাইনুদ্দিন আহমেদ",
+      "father": "মাওলানা ছিদ্দকুর রহমান",
+      "mobile": "০১৭৪৭৩৩৭৫৩৪",
+      "blood": "O+",
       "job": "সভাপতি"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/tuhin.jpg",
       "name": " জাঁকির  হোসাইন ভুঁইয়া",
+      "father": "আব্দুর রকিব ভূঁইয়া",
+      "mobile": "০১৬৭৫০২৬৮৯৫",
+      "blood": "O+",
       "job": "সহ-সভাপতি"
     },
     {
-      "img": "img/team/6.jpg",
-      "name": "রিয়াজ মুর্শেদ তুষার",
-      "job": "সদস্য"
-    },
-    {
-      "img": "img/team/7.jpg",
-      "name": "রুহুল আমিন ভূঁইয়া",
-      "job": "সদস্য"
-    },
-    {
-      "img": "img/team/9.jpg",
-      "name": "ইমরানুর রহমান সুজন",
-      "job": "সদস্য"
-    },
-    {
-      "img": "img/team/8.jpg",
-      "name": "সজীব আহমেদ",
-      "job": "সদস্য"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": " ইয়াছিন মাহমুদ",
+      "img": "img/team/lakdon.jpg",
+      "name": "ইয়াছিন মাহমুদ",
+      "father": "মোঃ আব্দুর রহমান",
+      "mobile": "০১৬২১৮৭২৮২৫",
+      "blood": "O+",
       "job": " সাধারণ  সম্পাদক"
     },
     {
-      "img": "img/team/05.jpg",
-      "name": " আশিকুর রহমান",
+      "img": "img/team/ruhul.jpg",
+      "name": "রুহুল আমিন ভূঁইয়া",
+      "father": "আব্দুল হাই ভূঁইয়া",
+      "mobile": "০১৭৬৮০১৫৪৬৬",
+      "blood": "O+",
+      "job": "যুগ্ম-সাধারণ সম্পাদক"
+    },
+    {
+      "img": "img/team/sujon.jpg",
+      "name": "ইমরানুর রহমান সুজন",
+      "father": "মোঃ আব্দুল কাইয়ুম",
+      "mobile": "০১৬৩৪০০৯৩২৮",
+      "blood": "O+",
       "job": "সদস্য"
     },
     {
-      "img": "img/team/01.jpg",
-      "name": "জুনাইদ ভুঁইয়া",
+      "img": "img/team/tushar.jpg",
+      "name": "রিয়াজ মুর্শেদ তুষার",
+      "father": "মোঃ আলমগীর ভূঁইয়া",
+      "mobile": "০১৭৮৩৭২৭৬৬৭",
+      "blood": "O+",
+      "job": "সাংগঠনিক সম্পাদক"
+    },
+    {
+      "img": "img/team/sajib.jpg",
+      "name": "আলী নেওয়াজ সজীব",
+      "father": "আব্দুর রশিদ",
+      "mobile": "০১৯৫৭৭৭৫১৬২",
+      "blood": "B+",
+      "job": "সহ-সাংগঠনিক সম্পাদক"
+    },
+    {
+      "img": "img/team/din.jpg",
+      "name": "মোঃ দ্বীন ইসলাম",
+      "father": "মৃত ইউনুস ভূঁইয়া",
+      "mobile": "০১৭৬১০৮৫৯৯৪",
+      "blood": "O+",
+      "job": "কোষাধ্যক্ষ"
+    },
+    {
+      "img": "img/team/ashiq.jpg",
+      "name": "মোঃ আশিকুর রহমান",
+      "father": "মোঃ আব্দুল কাইয়ুম",
+      "mobile": "০১৬২৯০৩৩৯০০",
+      "blood": "O+",
+      "job": "সদস্য"
+    },
+    {
+      "img": "img/team/anis.jpg",
+      "name": "মোহাম্মদ আনিসুল ইসলাম",
+      "father": "মৃত ইউনুস ভূঁইয়া",
+      "mobile": "০১৭৪২২৮৬৫৯২",
+      "blood": "O+",
+      "job": " সদস্য"
+    },
+    {
+      "img": "img/team/siam.jpg",
+      "name": "মোঃ সাইফুর রহমান সিয়াম",
+      "father": "মোঃ আব্দুল কাইয়ুম",
+      "mobile": "০১৪০৮৭৭১১৮২",
+      "blood": "O+",
+      "job": "সদস্য"
+    },
+    {
+      "img": "img/team/joniyed.jpg",
+      "name": "মোঃ জুনাইদ ভুঁইয়া",
+      "father": "মোঃ খোরশেদ আলম",
+      "mobile": "০১৭৯৪৫৯৯০৬৬",
+      "blood": "B+",
       "job": " সদস্য"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Dharkhar, Akhaura, Brahmanbaria",
+    "phone": "+8801794599066",
+    "email": "joniyed.bhuiyan@gmail.com",
+    "facebook": "https://www.facebook.com/jbjoniyed7"
   },
   "Ideals": [
     {
@@ -166,7 +215,7 @@
   ],
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-book",
       "title": "খোদা ভীতি",
       "text": "দ্বীনদার, খোদাভীরু, শিরক ও কুফর মুক্ত সমাজ সচেতন একটি শক্তিশালী প্লাটফর্ম তৈরী করা"
     },
@@ -181,37 +230,37 @@
       "text": "সামাজিক শান্তি শৃঙ্খলা বজায় রাখার জন্য নেতৃত্বের সাথে গুরত্বপুর্ন ভুমিকা পালন করা"
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-child",
       "title": "শিশু-কিশোর বিকাশ কেন্দ্র",
       "text": "দেশের ভবিষ্যত প্রজন্মকে শিরক ও কুফর মুক্ত করে গড়ে তোলার জন্য  ***শিশু-কিশোর*** বিকাশ কেন্দ্র স্থাপন করা "
     }
   ],
   "Motives": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-gavel",
       "title": "আল্লাহর সন্তুষ্টি",
       "text": "দআমাদের সব কাজ-কর্ম পদ্ধতির একমাত্র উদ্দেশ্য আল্লাহর সন্তুষ্টি অর্জন"
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-graduation-cap",
       "title": "মুহাম্মদ সাঃ আদর্শ",
       "text": "মহানবী হযরত মুহাম্মদ সাঃ এর আদর্শের প্রচার ও প্রসার,বাস্তব অনুসরন করা"
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-linux",
       "title": "ইতিবাচক মনোভাব",
       "text": "পরস্পরের মধ্যে ইতিবাচক মনোভাব ও সুসম্পর্ক স্থাপন করা,সামাজিক সার্থে সিদ্ধান্ত গ্রহন করা।"
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-fire",
       "title": "সংস্কৃতি চর্চা",
       "text": "সবধরনের রাজনীতির সংশ্লীষ্টতা থেকে মুক্ত থাকা।মতার ভিত্তিতে সিদ্ধান্ত গ্রহন ও বাস্তবায়নের সংস্কৃতি চর্চা করা"
     }
   ],
   "Gallery": [
     {
-      "img": "img/gallery/1.jpg",
-      "href": "img/gallery/1.jpg"
+      "img": "img/gallery/4.jpg",
+      "href": "img/gallery/4.jpg"
     },
     {
       "img": "img/gallery/2.jpg",
@@ -222,8 +271,8 @@
       "href": "img/gallery/3.jpg"
     },
     {
-      "img": "img/gallery/4.jpg",
-      "href": "img/gallery/4.jpg"
+      "img": "img/gallery/1.jpg",
+      "href": "img/gallery/1.jpg"
     }
   ]
 }

@@ -19,7 +19,10 @@ export class Navigation extends Component {
                             <span className="icon-bar"></span>{" "}
                         </button>
                         <a className="navbar-brand page-scroll" href="#page-top">
-                             DHFIYA
+                             <span>
+                                 <img style={{width:"23px",height:"23px",margin:"0 5px 5px 0"}} src={'circle-logo.png'}/>
+                                 DHFIYA
+                             </span>
                         </a>{" "}
                     </div>
 
@@ -35,12 +38,12 @@ export class Navigation extends Component {
                             </li>
                             <li>
                                 <a href="#features" className="page-scroll">
-                                     লক্ষ্য
+                                    লক্ষ্য
                                 </a>
                             </li>
                             <li>
                                 <a href="#motive" className="page-scroll">
-                                     উদ্দেশ্য
+                                    উদ্দেশ্য
                                 </a>
                             </li>
                             <li>
@@ -50,28 +53,28 @@ export class Navigation extends Component {
                             </li>
                             <li>
                                 <a href="#services" className="page-scroll">
-                                     সার্ভিস
+                                    সার্ভিস
                                 </a>
                             </li>
                             <li>
                                 <a href="#portfolio" className="page-scroll">
-                                     গ্যালারী
+                                    গ্যালারী
                                 </a>
                             </li>
                             <li>
                                 <a href="#testimonials" className="page-scroll">
-                                     প্রত্যয়ন
+                                    প্রত্যয়ন
                                 </a>
                             </li>
                             <li>
                                 <a href="#team" className="page-scroll">
-                                     দলীয় তথ্য
+                                    দলীয় তথ্য
                                 </a>
                             </li>
                             <li>
                                 <a href="#contact" className="page-scroll">
                                     যোগাযোগ
-                              </a>                           </li>
+                                </a></li>
                         </ul>
                     </div>
                 </div>

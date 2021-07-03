@@ -6,10 +6,9 @@ export class Services extends Component {
             <div id="services" className="text-center">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Our Services</h2>
+                        <h2>আমাদের সেবাসমূহ</h2>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-                            dapibus leonec.
+                            আমাদের সংগঠন যে ধরনের কাজের সাথে যুক্ত
                         </p>
                     </div>
                     <div className="row">

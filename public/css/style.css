@@ -218,7 +218,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     display: table;
     width: 100%;
     padding: 0;
-    background: url(../img/intro-bg.jpg) center center no-repeat;
+    background: url(../img/intro-bg-1.jpg) center center no-repeat;
     background-color: #e5e5e5;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -232,7 +232,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 .intro h1 {
     font-family: 'Raleway', sans-serif;
-    color: #400;
+    color: #00ffdb;
     font-size: 40px;
     font-weight: 700;
     text-transform: uppercase;
@@ -246,7 +246,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 
 .intro p {
-    color: #081235;
+    color: #00faef;
     font-size: 22px;
     font-weight: 300;
     line-height: 30px;
