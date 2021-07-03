@@ -1,0 +1,229 @@
+{
+  "Header": {
+    "title": " ধরখার হিলফুল ফুজুল যুব সংঘ",
+    "paragraph": "ইসলাম পৃথিবীর সবচেয়ে আধুনিক এবং প্রগতিশীল এক জীবন ব্যবস্থার নাম। ইসলামের সুশীতল ছায়াতলে যারাই আশ্রয় নিয়েছেন তারাই পেয়েছেন শান্তি, নিরাপত্তা, অগ্রগতির প্রকৃত ঠিকানা। সময় এবং কালের প্রবাহে ইসলামের অনুসারীদের মধ্যে বিভাজন, ভ্রান্তির বিকাশ এবং সাময়িক অসুবিধার সৃষ্টি করেছে। আজ মুসলিমরা প্রকৃত পথ নির্দেশনা হতে বঞ্চিত। শান্তি, স্থিতিশীলতার অগ্রগতিতে মুসলমানদের তুল্য কোন শক্তি নেই। এরপরও আজ সমাজে, দেশে-বিদেশে কেন এত অরাজকতা? তার অন্যতম কারণ আমরা আজ সত্যিকার ধর্মীয় অনুশাসন ও জ্ঞান থেকে বিচ্যুত। সময়ের প্রেক্ষাপটে আমরা এটা তীব্রভাবে অনুধাবন করছি যে,সমাজ ও দেশের অগ্রগতির সার্থেই বর্তমান মুসলিম তরুন প্রজন্মকে এগিয়ে আসতে হবে। কারণ তারন্যের আছে অজেয়কে জয় করার অদম্য সাহস। তরুনরা অপেক্ষাকৃত নির্লোভ ও সৎ হয়। এজন্য আজ তাদের জেগে উঠতে হবে। জ্বলে উঠতে হবে এক বুক ভরা সাহস নিয়ে। তাই আজ সামাজিক ধর্মীয় প্রেক্ষাপটের ভিত্তিতে সুস্থ ও আদর্শিক ধারা সৃষ্টির লক্ষ্যে ঐক্যের কোন বিকল্প নেই। \n\nসেই প্রয়োজনের তাগিদেই ধরখার আহলে সুন্নত ওয়াল জামায়াতের অনুসারীদের নিয়ে ঐক্যবদ্ধ প্লাটফর্ম হিসেবে  ধরখার হিলফুল ফুজুল ইসলামী যুব সংঘের যাত্রা শুরু হচ্ছে। যার প্রকৃত লক্ষ্য হচ্ছে সমাজে প্রচলিত শিরক ও কুফরের বিরুদ্ধে লড়াই করা। মুসলিম তরুন সমাজকে সঠিক দিনের পথে দাওয়াত দেয়া। "
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/02.jpg",
+      "name": "মাইনুদ্দিন আহমেদ",
+      "job": "সভাপতি"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": " জাঁকির  হোসাইন ভুঁইয়া",
+      "job": "সহ-সভাপতি"
+    },
+    {
+      "img": "img/team/6.jpg",
+      "name": "রিয়াজ মুর্শেদ তুষার",
+      "job": "সদস্য"
+    },
+    {
+      "img": "img/team/7.jpg",
+      "name": "রুহুল আমিন ভূঁইয়া",
+      "job": "সদস্য"
+    },
+    {
+      "img": "img/team/9.jpg",
+      "name": "ইমরানুর রহমান সুজন",
+      "job": "সদস্য"
+    },
+    {
+      "img": "img/team/8.jpg",
+      "name": "সজীব আহমেদ",
+      "job": "সদস্য"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": " ইয়াছিন মাহমুদ",
+      "job": " সাধারণ  সম্পাদক"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": " আশিকুর রহমান",
+      "job": "সদস্য"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "জুনাইদ ভুঁইয়া",
+      "job": " সদস্য"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Ideals": [
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "মানবতার অগ্রদূত, সৃষ্টির শ্রেষ্ঠকুল, ইমামুল মুরসালিন, রহমাতুল্লিল আলামিন, দু’জাহানের বাদশাহ, নবী মুহাম্মাদুর রাসূলুল্লাহ সাঃ –এর নির্দেশিত ও প্রদর্শিত পথ ও পন্থার অনুসরন।"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "কুরআন ও সুন্নাহের নির্দেশিত একজন সৎ ও নিষ্ঠাবান মুসলিমের জন্য অপরিহার্য সঠিক আকিদার অনুশীলন।"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "রাসূল সাঃ আল্লাহর তায়ালার সকল সৃষ্টির মধ্যে সর্বোৎকৃষ্ট সৃষ্টি (অর্থাৎ সৃষ্টির শুরু থেকে শেষ পর্যন্ত সকল সৃষ্টির মধ্যে সর্বোৎকৃষ্ট) এবং মর্যাদার দিক দিয়ে আল্লাহর পরেই রাসূল সাঃ এর অবস্থান। তিনি আল্লাহ তায়ালার প্রেরিত সর্বশেষ ও সর্বশ্রেষ্ঠ রাসূল। আল্লাহর সৃষ্টি হিসেবে তিনি মহামানব তাতে কোন সন্দেহ রাখা যাবেনা। "
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "কুরআন সুন্নাহের মানদন্ডের ভিত্তিতে বন্ধুত্ব ও শত্রুতার নীতি অনুসরন করা ।"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "ইসলাম ও মুসলিম উম্মাহর স্বার্থ সংশ্লিষ্ট সংহতি ও জোরদার সমর্থন করা।"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "দেশ, স্বাধীনতা ও মানবতার পক্ষ্যে আমাদের অব্যাহত প্রচেষ্টা থাকা ।"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "খোদা ভীতি",
+      "text": "দ্বীনদার, খোদাভীরু, শিরক ও কুফর মুক্ত সমাজ সচেতন একটি শক্তিশালী প্লাটফর্ম তৈরী করা"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "শিরক ও কুফর মুক্ত সমাজ",
+      "text": "দেশের ভবিষ্যৎ প্রজন্মকে শিরক এবং কুফর মুক্ত করে ঘরে তুলা"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "শান্তি শৃঙ্খলা বৃদ্ধি",
+      "text": "সামাজিক শান্তি শৃঙ্খলা বজায় রাখার জন্য নেতৃত্বের সাথে গুরত্বপুর্ন ভুমিকা পালন করা"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "শিশু-কিশোর বিকাশ কেন্দ্র",
+      "text": "দেশের ভবিষ্যত প্রজন্মকে শিরক ও কুফর মুক্ত করে গড়ে তোলার জন্য  ***শিশু-কিশোর*** বিকাশ কেন্দ্র স্থাপন করা "
+    }
+  ],
+  "Motives": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "আল্লাহর সন্তুষ্টি",
+      "text": "দআমাদের সব কাজ-কর্ম পদ্ধতির একমাত্র উদ্দেশ্য আল্লাহর সন্তুষ্টি অর্জন"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "মুহাম্মদ সাঃ আদর্শ",
+      "text": "মহানবী হযরত মুহাম্মদ সাঃ এর আদর্শের প্রচার ও প্রসার,বাস্তব অনুসরন করা"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "ইতিবাচক মনোভাব",
+      "text": "পরস্পরের মধ্যে ইতিবাচক মনোভাব ও সুসম্পর্ক স্থাপন করা,সামাজিক সার্থে সিদ্ধান্ত গ্রহন করা।"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "সংস্কৃতি চর্চা",
+      "text": "সবধরনের রাজনীতির সংশ্লীষ্টতা থেকে মুক্ত থাকা।মতার ভিত্তিতে সিদ্ধান্ত গ্রহন ও বাস্তবায়নের সংস্কৃতি চর্চা করা"
+    }
+  ],
+  "Gallery": [
+    {
+      "img": "img/gallery/1.jpg",
+      "href": "img/gallery/1.jpg"
+    },
+    {
+      "img": "img/gallery/2.jpg",
+      "href": "img/gallery/2.jpg"
+    },
+    {
+      "img": "img/gallery/3.jpg",
+      "href": "img/gallery/3.jpg"
+    },
+    {
+      "img": "img/gallery/4.jpg",
+      "href": "img/gallery/4.jpg"
+    }
+  ]
+}
