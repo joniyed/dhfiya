@@ -24,7 +24,7 @@ export class Team extends Component {
                                             <p style={{margin:"0px"}}>পিতা : {d.father}</p>
                                             <p style={{margin:"0px"}}>মোবাইল : {d.mobile}</p>
                                             <p style={{margin:"0px"}}>রক্তের গ্রুপ : {d.blood}</p>
-                                            <p style={{margin:"0px"}}>পদ : {d.job}</p>
+                                            <p style={{margin:"0px"}}>{d.job}</p>
                                         </div>
                                     </div>
                                 </div>
