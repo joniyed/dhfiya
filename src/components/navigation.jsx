@@ -20,7 +20,10 @@ export class Navigation extends Component {
                         </button>
                         <a className="navbar-brand page-scroll" href="#page-top">
                              <span>
-                                 {/*<img style={{width:"23px",height:"23px",margin:"0 5px 5px 0"}} src={'circle-logo.png'} alt={"logo"}/>*/}
+                                 <img style={{width: "23px", height: "23px", margin: "0 5px 5px 0"}}
+                                      src={'circle-logo.png'}
+                                      alt="logo"
+                                 />
                                  DHFIYA
                              </span>
                         </a>{" "}
