@@ -1,15 +1,17 @@
 import React, {Component} from "react";
 import '../App.css'
+import ParticleBackground from "./ParticleBackground";
 
 export class Header extends Component {
     render() {
         return (
             <header id="header">
                 <div className="intro">
+                    <ParticleBackground/>
                     <div className="overlay">
                         <div className="container">
                             <div className="row">
-                                <div style={{paddingTop:"180px"}} className="col-md-10 col-lg-offset-1 intro-text">
+                                <div style={{paddingTop: "180px"}} className="col-md-10 col-lg-offset-1 intro-text">
                                     <h1>
                                         {this.props.data ? this.props.data.title : "Loading"}
                                         <span></span>

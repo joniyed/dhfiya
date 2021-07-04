@@ -10,8 +10,10 @@
     "react": "^16.13.1",
     "react-clear-cache": "^1.4.12",
     "react-dom": "^16.13.1",
+    "react-particles-js": "^3.5.3",
     "react-scripts": "3.4.1",
-    "react-slideshow-image": "^3.5.0"
+    "react-slideshow-image": "^3.5.0",
+    "tsparticles": "^1.30.3"
   },
   "scripts": {
     "start": "react-scripts start",

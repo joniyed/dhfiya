@@ -8,7 +8,7 @@ function Gallery(props) {
                 <div className="section-title">
                     <h2>গ্যালারী</h2>
                 </div>
-                <Slideshow data = {props.data} />
+                <Slideshow data={props.data}/>
                 {/*<div className="row">*/}
                 {/*    <div className="portfolio-items">*/}
                 {/*        {*/}
