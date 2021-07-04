@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e6b5394-89dd-4d06-b9f9-47f08f147000" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/gallery/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/gallery/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/gallery/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/gallery/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/gallery/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/gallery/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/gallery/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/gallery/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/gallery/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/gallery/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Team.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Team.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/about.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/gallery.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/gallery.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +102,7 @@
       <workItem from="1625318477960" duration="12364000" />
       <workItem from="1625332959940" duration="976000" />
       <workItem from="1625336596165" duration="326000" />
-      <workItem from="1625395880450" duration="3062000" />
+      <workItem from="1625395880450" duration="3221000" />
     </task>
     <servers />
   </component>

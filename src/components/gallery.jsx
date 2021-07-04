@@ -22,7 +22,6 @@ function Gallery(props) {
                                                 href={d.img}
                                                 title="Project Title"
                                                 data-lightbox-gallery="gallery1"
-                                                target={"_blank"}
                                             >
                                                 <img
                                                     style={{height: "400px", width: "100%"}}
