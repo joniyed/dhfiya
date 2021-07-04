@@ -7,9 +7,6 @@ function Gallery(props) {
             <div className="container">
                 <div className="section-title">
                     <h2>গ্যালারী</h2>
-                    <p>
-                        আমাদের কিছু ছবি
-                    </p>
                 </div>
                 <Slideshow data = {props.data} />
                 {/*<div className="row">*/}
