@@ -28,7 +28,7 @@ export class App extends Component {
     render() {
         return (
             <div>
-                <Navigation />
+                <Navigation/>
                 <Header data={this.state.landingPageData.Header}/>
                 <Ideals data={this.state.landingPageData.Ideals} title={"আদর্শ"}/>
                 <Features data={this.state.landingPageData.Features} title={"লক্ষ্য"}/>
