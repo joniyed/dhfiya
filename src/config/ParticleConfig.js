@@ -4,7 +4,7 @@ const ParticleConfig = {
             value: 100,
             density: {
                 enable: true,
-                value_area: 631.3181133058181
+                value_area: 800
             }
         },
         color: {
@@ -17,7 +17,7 @@ const ParticleConfig = {
                 color: "#000000"
             },
             polygon: {
-                nb_sides: 3
+                nb_sides: 5
             },
             image: {
                 src: "img/github.svg",
@@ -26,7 +26,7 @@ const ParticleConfig = {
             }
         },
         opacity: {
-            value: 1,
+            value: 0.5,
             random: true,
             anim: {
                 enable: false,
@@ -36,7 +36,7 @@ const ParticleConfig = {
             }
         },
         size: {
-            value: 5,
+            value: 10,
             random: true,
             anim: {
                 enable: false,
@@ -47,14 +47,14 @@ const ParticleConfig = {
         },
         line_linked: {
             enable: false,
-            distance: 737.5695479981405,
+            distance: 500,
             color: "#ffffff",
             opacity: 0.4,
             width: 2
         },
         move: {
             enable: true,
-            speed: 6,
+            speed: 2,
             direction: "bottom-right",
             random: false,
             straight: false,
@@ -62,8 +62,8 @@ const ParticleConfig = {
             bounce: false,
             attract: {
                 enable: false,
-                rotateX: 3367.1653278175977,
-                rotateY: 2966.312312601217
+                rotateX: 600,
+                rotateY: 1200
             }
         }
     },
