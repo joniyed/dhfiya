@@ -56,6 +56,7 @@
     margin: 5px
 }
 
+
 @media (max-width: 769px) {
     .slide-show {
         background-repeat: no-repeat;
@@ -64,8 +65,16 @@
         border-radius: 20px;
         margin: 5px
     }
+
     .slide-middle {
         width: 100%;
+    }
+
+    .header-text {
+        font-size: 30px !important;
+    }
+    .header-p{
+        font-size: 17px !important;
     }
 }
 

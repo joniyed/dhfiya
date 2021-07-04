@@ -14,9 +14,9 @@ export class Navigation extends Component {
                         >
                             {" "}
                             <span className="sr-only">Toggle navigation</span>{" "}
-                            <span className="icon-bar"></span>{" "}
-                            <span className="icon-bar"></span>{" "}
-                            <span className="icon-bar"></span>{" "}
+                            <span className="icon-bar"/>{" "}
+                            <span className="icon-bar"/>{" "}
+                            <span className="icon-bar"/>{" "}
                         </button>
                         <a className="navbar-brand page-scroll" href="#page-top">
                              <span>
