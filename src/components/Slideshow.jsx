@@ -13,7 +13,7 @@ const Slideshow = (props) => {
 
     return (
         <div style={mainDiv}>
-            <div style={{width: "100%"}}>
+            <div style={{width: "80%"}}>
                 <Slide easing="ease">
                     {props.data
                         ? props.data.map((d, i) => (
@@ -22,7 +22,7 @@ const Slideshow = (props) => {
                                     backgroundImage: `url(${d.img})`,
                                     backgroundRepeat: "no-repeat",
                                     backgroundSize: "100% 100%",
-                                    height:"50vh",
+                                    height:"60vh",
                                     borderRadius:"20px",
                                     margin:"5px"
                                 }}>
