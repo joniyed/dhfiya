@@ -17,7 +17,7 @@ export class Team extends Component {
                                 <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
                                     <div className="thumbnail">
                                         {" "}
-                                        <img style={{width: "300px", height: "300px", borderRadius: "50%"}} src={d.img}
+                                        <img style={{width: "250px", height: "250px", borderRadius: "50%"}} src={d.img}
                                              alt="..." className="team-img"/>
                                         <div className="caption">
                                             <h4>{d.name}</h4>
