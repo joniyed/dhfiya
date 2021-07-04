@@ -19,8 +19,8 @@ export class Team extends Component {
                                         {" "}
                                         <img style={{width: "250px", height: "250px", borderRadius: "50%"}} src={d.img}
                                              alt="..." className="team-img"/>
-                                        <div className="caption">
-                                            <h4>{d.name}</h4>
+                                        <div className={"caption"}>
+                                            <h4 style={{fontSize:"20px"}} className={"content-text-font "}>{d.name}</h4>
                                             <p style={{margin:"0px"}}>পিতা : {d.father}</p>
                                             <p style={{margin:"0px"}}>মোবাইল : {d.mobile}</p>
                                             <p style={{margin:"0px"}}>রক্তের গ্রুপ : {d.blood}</p>
