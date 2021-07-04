@@ -267,8 +267,8 @@
   ],
   "Gallery": [
     {
-      "img": "img/gallery/4.jpg",
-      "href": "img/gallery/4.jpg"
+      "img": "img/gallery/11.jpg",
+      "href": "img/gallery/11.jpg"
     },
     {
       "img": "img/gallery/2.jpg",
@@ -279,8 +279,36 @@
       "href": "img/gallery/3.jpg"
     },
     {
-      "img": "img/gallery/1.jpg",
-      "href": "img/gallery/1.jpg"
+      "img": "img/gallery/4.jpg",
+      "href": "img/gallery/4.jpg"
+    },
+    {
+      "img": "img/gallery/5.jpg",
+      "href": "img/gallery/5.jpg"
+    },
+    {
+      "img": "img/gallery/6.jpg",
+      "href": "img/gallery/6.jpg"
+    },
+    {
+      "img": "img/gallery/7.jpg",
+      "href": "img/gallery/7.jpg"
+    },
+    {
+      "img": "img/gallery/8.jpg",
+      "href": "img/gallery/8.jpg"
+    },
+    {
+      "img": "img/gallery/9.jpg",
+      "href": "img/gallery/9.jpg"
+    },
+    {
+      "img": "img/gallery/10.jpg",
+      "href": "img/gallery/10.jpg"
+    },
+    {
+      "img": "img/gallery/11.jpg",
+      "href": "img/gallery/11.jpg"
     }
   ]
 }

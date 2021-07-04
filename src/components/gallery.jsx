@@ -22,12 +22,10 @@ function Gallery(props) {
                                                 href={d.img}
                                                 title="Project Title"
                                                 data-lightbox-gallery="gallery1"
+                                                target={"_blank"}
                                             >
-                                                <div className="hover-text">
-                                                    <h4>Lorem Ipsum</h4>
-                                                </div>
                                                 <img
-                                                    style={{height: "250px", width: "100%", margin: "5px"}}
+                                                    style={{height: "400px", width: "100%"}}
                                                     src={d.img}
                                                     className="img-responsive"
                                                     alt="Project Title"

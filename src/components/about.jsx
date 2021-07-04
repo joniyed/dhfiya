@@ -6,13 +6,14 @@ export class about extends Component {
             <div id="about">
                 <div className="container content-text-font">
                     <div className="row">
-                        <div className="col-xs-12 col-md-6"><img src="img/about.jpg" className="img-responsive" alt=""/>
+                        <div style={{display:"flex",justifyContent:"center",alignItems:"center"}} className="col-xs-12 col-md-6">
+                            <img style={{borderRadius:"50%"}} src="img/about.jpg" className="img-responsive" alt=""/>
                         </div>
                         <div className="col-xs-12 col-md-6">
                             <div className="about-text text-justify">
-                                <h2>আমাদের সম্পর্কে</h2>
+                                <h2 className={"content-text-font"}>কারা আমরা</h2>
                                 <p>{this.props.data ? this.props.data.paragraph : 'loading...'}</p>
-                                <h3>সমাজের কেন আমাদের দরকার</h3>
+                                <h3 className={"content-text-font"}>কেন আমরা</h3>
                                 <div className="list-style">
                                     <div className="col-lg-6 col-sm-6 col-xs-12">
                                         <ul>

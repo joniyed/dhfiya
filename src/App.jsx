@@ -35,9 +35,9 @@ export class App extends Component {
                 <Motive data={this.state.landingPageData.Motives} title={"উদ্দেশ্য"}/>
                 <About data={this.state.landingPageData.About}/>
                 <Services data={this.state.landingPageData.Services}/>
+                <Team data={this.state.landingPageData.Team}/>
                 <Gallery data={this.state.landingPageData.Gallery}/>
                 <Testimonials data={this.state.landingPageData.Testimonials}/>
-                <Team data={this.state.landingPageData.Team}/>
                 <Contact data={this.state.landingPageData.Contact}/>
             </div>
         )

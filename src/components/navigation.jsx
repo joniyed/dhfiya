@@ -60,6 +60,11 @@ export class Navigation extends Component {
                                 </a>
                             </li>
                             <li>
+                                <a href="#team" className="page-scroll">
+                                    দলীয় তথ্য
+                                </a>
+                            </li>
+                            <li>
                                 <a href="#portfolio" className="page-scroll">
                                     গ্যালারী
                                 </a>
@@ -70,14 +75,10 @@ export class Navigation extends Component {
                                 </a>
                             </li>
                             <li>
-                                <a href="#team" className="page-scroll">
-                                    দলীয় তথ্য
-                                </a>
-                            </li>
-                            <li>
                                 <a href="#contact" className="page-scroll">
                                     যোগাযোগ
-                                </a></li>
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
