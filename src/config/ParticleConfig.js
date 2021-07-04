@@ -4,7 +4,7 @@ const ParticleConfig = {
             value: 100,
             density: {
                 enable: true,
-                value_area: 800
+                value_area: 1000
             }
         },
         color: {
@@ -36,7 +36,7 @@ const ParticleConfig = {
             }
         },
         size: {
-            value: 10,
+            value: 2,
             random: true,
             anim: {
                 enable: false,
@@ -62,8 +62,8 @@ const ParticleConfig = {
             bounce: false,
             attract: {
                 enable: false,
-                rotateX: 600,
-                rotateY: 1200
+                rotateX: 561.194221302933,
+                rotateY: 2084.43567912518
             }
         }
     },

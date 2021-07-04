@@ -12,9 +12,9 @@ export class Header extends Component {
                         <div className="container">
                             <div className="row">
                                 <div style={{paddingTop: "180px"}} className="col-md-10 col-lg-offset-1 intro-text">
-                                    <h1>
+                                    <h1 className={"content-text-justify"}>
                                         {this.props.data ? this.props.data.title : "Loading"}
-                                        <span></span>
+                                        <span/>
                                     </h1>
                                     <p className={"content-text-justify"}>
                                         {this.props.data ? this.props.data.paragraph : "Loading"}
