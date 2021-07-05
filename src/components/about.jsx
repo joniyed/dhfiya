@@ -7,7 +7,7 @@ export class about extends Component {
                 <div className="container content-text-font">
                     <div className="row">
                         <div style={{display:"flex",justifyContent:"center",alignItems:"center"}} className="col-xs-12 col-md-6">
-                            <img style={{borderRadius:"50%"}} src="img/about.jpg" className="img-responsive" alt=""/>
+                            <img style={{borderRadius:"50%",width:"200px",height:"200px"}} src="img/about.jpg" className="img-responsive" alt=""/>
                         </div>
                         <div className="col-xs-12 col-md-6">
                             <div className="about-text text-justify">
