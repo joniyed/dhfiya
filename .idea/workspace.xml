@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2e6b5394-89dd-4d06-b9f9-47f08f147000" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/about.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ParticleBackground.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ParticleBackground.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/motive.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/motive.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +110,7 @@
       <workItem from="1625395880450" duration="4258000" />
       <workItem from="1625401751520" duration="14046000" />
       <workItem from="1625453469467" duration="3562000" />
-      <workItem from="1625468067155" duration="414000" />
+      <workItem from="1625468067155" duration="2846000" />
     </task>
     <servers />
   </component>

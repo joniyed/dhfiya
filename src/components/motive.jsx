@@ -19,7 +19,8 @@ export class Motive extends Component {
                                         <p style={{width: "100%", height: "80px"}}>{d.text}</p>
                                     </div>
                                 ))
-                                : "Loading..."}
+                                : "Loading..."
+                            }
                         </div>
                     </div>
                 </div>

@@ -9,6 +9,6 @@ export default function ParticleBackground() {
         width: '100%',
     };
     return (
-        <Particles width="100%" height="200vh" className={"particles-wrapper"} style={styling} params={ParticleConfig}/>
+        <Particles width="100%" height={"175vh"} className={"particles-wrapper"} style={styling} params={ParticleConfig}/>
     );
 }
