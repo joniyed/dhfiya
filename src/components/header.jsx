@@ -12,6 +12,11 @@ export class Header extends Component {
                         <div className="container">
                             <div className="row">
                                 <div style={{paddingTop: "180px"}} className="col-md-10 col-lg-offset-1 intro-text">
+                                    <div className={"header-image"}>
+                                        <img style={{borderRadius: "50%", width: "200px", height: "200px"}}
+                                             src="img/about.jpg" className="img-responsive"
+                                             alt=""/>
+                                    </div>
                                     <h1 className={"content-text-font header-text"}>
                                         {this.props.data ? this.props.data.title : "Loading"}
                                         <span/>

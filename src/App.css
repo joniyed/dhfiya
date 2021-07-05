@@ -36,6 +36,13 @@
     color: white;
 }
 
+.header-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
 /* Slide Show */
 .slide-main {
     height: 40vh;
@@ -56,6 +63,18 @@
     margin: 5px
 }
 
+.menu-bar-line {
+    color: white !important;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000 !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+    background: #fff;
+}
 
 @media (max-width: 769px) {
     .slide-show {
@@ -71,9 +90,10 @@
     }
 
     .header-text {
-        font-size: 30px !important;
+        font-size: 20px !important;
     }
-    .header-p{
+
+    .header-p {
         font-size: 17px !important;
     }
 }

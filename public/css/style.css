@@ -218,22 +218,20 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     display: table;
     width: 100%;
     padding: 0;
-    background: url(../img/intro-bg.jpg) center center;
-    background-repeat: no-repeat;
-    background-color: #e5e5e5;
+    background-color: #6375FF;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
 
-.intro .overlay {
-    background: rgba(0, 0, 0, 0.2);
-}
+/*.intro .overlay {*/
+/*    background: rgba(0, 0, 0, 0.2);*/
+/*}*/
 
 .intro h1 {
     font-family: 'Raleway', sans-serif;
-    color: #e0dede;
+    color: #f1f1f1;
     font-size: 40px;
     font-weight: 700;
     text-transform: uppercase;
@@ -243,11 +241,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 .intro h1 span {
     font-weight: 800;
-    color: #5ca9fb;
+    color: #f1f1f1;
 }
 
 .intro p {
-    color: #bcd0bb;
+    color: #f1f1f1;
     font-size: 22px;
     font-weight: 300;
     line-height: 30px;
