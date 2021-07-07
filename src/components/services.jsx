@@ -1,4 +1,5 @@
 import React, {Component} from "react";
+import '../App.css'
 
 export class Services extends Component {
     render() {
@@ -11,19 +12,33 @@ export class Services extends Component {
                             আমাদের সংগঠন যে ধরনের কাজের সাথে যুক্ত
                         </p>
                     </div>
-                    <div className="row">
-                        {this.props.data
-                            ? this.props.data.map((d, i) => (
-                                <div key={`${d.name}-${i}`} className="col-md-4">
-                                    {" "}
-                                    <i className={d.icon}></i>
-                                    <div className="service-desc">
-                                        <h3>{d.name}</h3>
-                                        <p>{d.text}</p>
+                    <div className={"container"}>
+                        <div className="row">
+                            {this.props.data
+                                ? this.props.data.map((d, i) => (
+                                    <div key={`${d.name}-${i}`} className="col-md-4">
+                                        <div
+                                            className={"centerService"}
+                                            style={
+                                                {
+                                                    background: "#6375FF",
+                                                    height: "320px",
+                                                    border: "1px solid #91C8FE",
+                                                    marginBottom:"30px",
+                                                    padding: "30px"
+                                                }}
+                                        >
+                                            {" "}
+                                            <i className={d.icon}/>
+                                            <div className="service-desc">
+                                                <h3 className={"content-text-font"}>{d.name}</h3>
+                                                <p style={{fontSize: "11px"}}>{d.text}</p>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            ))
-                            : "loading"}
+                                ))
+                                : "loading"}
+                        </div>
                     </div>
                 </div>
             </div>

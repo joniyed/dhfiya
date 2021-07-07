@@ -85,7 +85,7 @@ const Navigation = () => {
 
                         {
                             data.map(value => (
-                                <li>
+                                <li key={value.classId}>
                                     <a href={`#${value.classId}`} className="page-scroll">
                                         <span className={"content-text-font"}>{value.name}</span>
                                     </a>

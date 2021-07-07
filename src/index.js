@@ -3,11 +3,24 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import DataContextProvider from "./contexts/DataContextProvider";
+
+export const contextProviders = [
+    DataContextProvider
+];
+
+const getAppWithContextProviders = () => {
+    let result = <App/>;
+    contextProviders.forEach(
+        (Provider) => (result = <Provider>{result}</Provider>)
+    );
+
+    return result;
+};
+
 
 ReactDOM.render(
-    <React.StrictMode>
-        <App/>
-    </React.StrictMode>,
+    getAppWithContextProviders(),
     document.getElementById('root')
 );
 

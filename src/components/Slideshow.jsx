@@ -15,6 +15,7 @@ const Slideshow = (props) => {
                                 href={d.img}
                                 title="Project Title"
                                 data-lightbox-gallery="gallery1"
+                                key={i}
                             >
                                 <div className="each-slide">
                                     <div className={"slide-show"} style={{

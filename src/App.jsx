@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, {useContext} from 'react'
 import Navigation from './components/navigation';
 import Header from './components/header';
 import Features from './components/features';
@@ -8,40 +8,39 @@ import Gallery from './components/gallery';
 import Testimonials from './components/testimonials';
 import Team from './components/Team';
 import Contact from './components/contact';
-import JsonData from './data/data.json';
 import Ideals from "./components/Ideals.jsx";
 import Motive from "./components/motive";
+import {DataContext} from "./contexts/DataContextProvider";
 
-export class App extends Component {
-    state = {
-        landingPageData: {},
-    }
+const App = () => {
 
-    getlandingPageData() {
-        this.setState({landingPageData: JsonData})
-    }
+    // const [state, setState] = useState({landingPageData: {}})
+    //
+    // const getLandingPageData = () => {
+    //     setState({landingPageData: JsonData})
+    // }
+    //
+    // useEffect(() => {
+    //     getLandingPageData()
+    // }, [])
 
-    componentDidMount() {
-        this.getlandingPageData();
-    }
+    const DataContextProvider = useContext(DataContext);
 
-    render() {
-        return (
-            <div>
-                <Navigation/>
-                <Header data={this.state.landingPageData.Header}/>
-                <Ideals data={this.state.landingPageData.Ideals} title={"আদর্শ"}/>
-                <Features data={this.state.landingPageData.Features} title={"লক্ষ্য"}/>
-                <Motive data={this.state.landingPageData.Motives} title={"উদ্দেশ্য"}/>
-                <About data={this.state.landingPageData.About}/>
-                <Services data={this.state.landingPageData.Services}/>
-                <Team data={this.state.landingPageData.Team}/>
-                <Gallery data={this.state.landingPageData.Gallery}/>
-                <Testimonials data={this.state.landingPageData.Testimonials}/>
-                <Contact data={this.state.landingPageData.Contact}/>
-            </div>
-        )
-    }
+    return (
+        <div>
+            <Navigation/>
+            <Header data={DataContextProvider.Headers}/>
+            <Ideals data={DataContextProvider.Ideals} title={"আদর্শ"}/>
+            <Features data={DataContextProvider.Features} title={"লক্ষ্য"}/>
+            <Motive data={DataContextProvider.Motives} title={"উদ্দেশ্য"}/>
+            <About data={DataContextProvider.About}/>
+            <Services data={DataContextProvider.Services}/>
+            <Team data={DataContextProvider.Team}/>
+            <Gallery data={DataContextProvider.Gallery}/>
+            <Testimonials data={DataContextProvider.Testimonials}/>
+            <Contact data={DataContextProvider.Contact}/>
+        </div>
+    )
 }
 
 export default App;
