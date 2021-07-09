@@ -1,7 +1,7 @@
 import React from "react";
 import Slideshow from "./Slideshow";
 
-function Gallery(props) {
+const Gallery = (props) => {
     return (
         <div id="portfolio" className="text-center">
             <div className="container">

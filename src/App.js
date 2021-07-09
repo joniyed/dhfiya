@@ -1,16 +1,16 @@
 import React, {useContext} from 'react'
-import Navigation from './components/navigation';
-import Header from './components/header';
-import Features from './components/features';
-import About from './components/about';
-import Services from './components/services';
-import Gallery from './components/gallery';
-import Testimonials from './components/testimonials';
-import Team from './components/Team';
-import Contact from './components/contact';
-import Ideals from "./components/Ideals.jsx";
-import Motive from "./components/motive";
+import Navigation from './components/Navigation';
+import Header from './components/Header';
+import Features from './components/Features';
+import About from './components/About';
+import Services from './components/Services';
+import Gallery from './components/Gallery';
+import Testimonials from './components/Testimonials';
+import Contact from './components/Contact';
+import Ideals from "./components/Ideals.js";
+import Motive from "./components/Motive";
 import {DataContext} from "./contexts/DataContextProvider";
+import Team from "./components/Team";
 
 const App = () => {
 

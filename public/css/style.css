@@ -83,10 +83,15 @@ hr {
     transition: all 0.8s;
 }
 
+/*#menu.navbar-default {*/
+/*    background-color: #647afd;*/
+/*    border-color: rgba(231, 231, 231, 0);*/
+/*    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15)*/
+/*}*/
 #menu.navbar-default {
-    background-color: #647afd;
-    border-color: rgba(231, 231, 231, 0);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15)
+    background-color: #24101b;
+    border-color: #636060;
+    box-shadow: 0 0 10px rgb(0 0 0 / 15%);
 }
 
 #menu a.navbar-brand {
@@ -218,7 +223,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     display: table;
     width: 100%;
     padding: 0;
-    background-color: #6375FF;
+    /*background-color: #6375FF;*/
+    background-image: url("../img/info-bg.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -274,8 +280,8 @@ header .intro-text {
     height: 100px;
     padding: 30px 0;
     border-radius: 50%;
-    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, .05);
+    background: linear-gradient(to right, #24101b 0%, #24101b 100%);
+    box-shadow: 10px 10px 10px rgb(0 0 0 / 5%);
 }
 
 /* About Section */
@@ -336,7 +342,7 @@ header .intro-text {
 /* Services Section */
 #services {
     padding: 100px 0;
-    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    background: linear-gradient(to right, #24101b 0%, #24101b 100%);
     color: #fff;
 }
 
@@ -364,10 +370,10 @@ header .intro-text {
     width: 120px;
     height: 120px;
     padding: 40px 0;
-    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    background: linear-gradient(to right, #c1006a 0%, #5a5558 100%);
     border-radius: 50%;
     color: #fff;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, .05);
+    box-shadow: 10px 10px 10px rgb(0 0 0 / 5%);
 }
 
 #services h3 {
@@ -509,7 +515,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
     padding: 100px 0 60px 0;
-    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    background: linear-gradient(to right, #24101b 0%, #24101b 100%);
     color: rgba(255, 255, 255, .75);
 }
 
